@@ -1,0 +1,16 @@
+Project description — HTML & CSS Internship Submission
+Submitted by: Cherlopalli Priya (cpriya96763@gmail.com)
+
+For my HTML & CSS internship project I built a personal portfolio website that
+introduces me, Cherlopalli Priya, a third-year B.Tech Computer Science & Engineering
+student at VEMU Institute of Technology. The site is a single pure HTML5 page styled
+with one external CSS3 stylesheet — no JavaScript, frameworks, or backend — organised
+into header navigation, hero, about, skills, projects, contact, and footer sections
+using semantic tags and section IDs so the nav links jump straight to each section.
+The layout is built with Flexbox and CSS Grid, uses CSS variables for its warm
+paper-and-ink colour palette (cream, charcoal, terracotta), and includes a responsive
+media query so the page reads cleanly on phones, tablets, and desktops with no
+horizontal overflow. It showcases my two projects — Learn Mate, a student-to-student
+learning platform, and a Student Attendance Management System front end — along with
+my skills, education, and contact details; the contact form is a clearly labelled
+visual demo that does not send or store any data.
